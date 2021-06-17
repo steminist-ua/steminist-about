@@ -32,10 +32,10 @@ I'm Anastasiia. A Full Stack Web Developer from Ukraine. I'm a mentor and volunt
 
 ## 🤵 About Me:
 - 🏦 I'm currently Business Owner, Software Engineer, Tech Content Creator, STEM Influencer, ```PhD-student``` <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-- 🤔 I use daily ```.js```,``` .py```,``` .php```, ```.sql```
+- 👩‍💻 I use daily ```.js```,``` .py```,``` .php```, ```.sql```
 - 🌱 I’m currently learning building apps for Android and iOS
 - 💬 Talk to me about Software Engineering, Time Management, Education, Learning languages and Silicon Valley
-- 😄 Pronouns: She/Her
+- 🤝 Pronouns: She/Her
 - 📝 I regulary write articles on [steminist.com.ua](https://steminist.com.ua/)
 <!-- - 👯 We can connect on [Chess.com](https://www.chess.com/member/sweetxcyanide)♟ to play some games -->
 <!-- - ⚡ Fun fact: Je connais un peu le français -->
