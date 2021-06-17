@@ -1,7 +1,7 @@
 <hr>
 <h1 align="center">Hello, &#10094;steminists <img src="https://steminist.com.ua/wp-content/uploads/2021/06/earth.gif" width="24px">/&#10095;! <img src="https://steminist.com.ua/wp-content/uploads/2021/06/hi.gif" width="30px">
 <br>
-<a target="blank" href="https://discord.gg/92FzG6K">
+<a target="_blank" href="https://discord.gg/92FzG6K">
   <img align="center" alt="Anastasiia STEMINIST @Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 </a>
 <a target="blank" href="https://www.instagram.com/code.steminist/">
