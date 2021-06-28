@@ -4,7 +4,7 @@
 <a target="_blank" href="https://discord.gg/92FzG6K">
   <img align="center" alt="Anastasiia STEMINIST @Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 </a>
-<a target="blank" href="https://www.instagram.com/code.steminist/">
+<a target="blank" href=https://www.instagram.com/steminist.ua/">
   <img align="center" alt="Anastasiia STEMINIST @Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a target="blank" href="https://t.me/steminists_bot">
@@ -26,7 +26,7 @@
   <samp>
 I'm Anastasiia. A Full Stack Web Developer from Ukraine. I'm a mentor and volunteer. I work with developers from enterprises, startups, open source communities & universities to build their apps & solutions. I create content in Ukrainian <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/lg/57/flag-for-ukraine_1f1fa-1f1e6.png" srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/lg/57/flag-for-ukraine_1f1fa-1f1e6.png 2x" alt="Flag: Ukraine" width="20" height="20" style="margin-bottom:-5px">
 <br><br>Я Анастасія. Full Stack веб-розробниця з України. Я менторка і волонтерка. Працюю з розробниками з підприємств, стартапів, спільнот з відкритим кодом та університетів, для допомоги у створенні власних програм та рішень. Створюю контент українською <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/lg/57/flag-for-ukraine_1f1fa-1f1e6.png" srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/lg/57/flag-for-ukraine_1f1fa-1f1e6.png 2x" alt="Flag: Ukraine" width="20" height="20" style="margin-bottom:-5px">
-     <br><br>Contact me on <a href="https://www.instagram.com/code.steminist/" target="blank">Instagram</a>, <a href="https://t.me/steministUA" target="blank">Telegram</a>, or <a href="mailto:hello@steminist.com.ua" target="blank">Send an Email</a>
+     <br><br>Contact me on <a href="https://www.instagram.com/steminist.ua/" target="blank">Instagram</a>, <a href="https://t.me/steministUA" target="blank">Telegram</a>, or <a href="mailto:hello@steminist.com.ua" target="blank">Send an Email</a>
   </samp>
 </p>
 
