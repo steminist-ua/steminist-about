@@ -4,7 +4,7 @@
 <a target="_blank" href="https://discord.gg/92FzG6K">
   <img align="center" alt="Anastasiia STEMINIST @Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 </a>
-<a target="blank" href=https://www.instagram.com/steminist.ua/">
+<a target="blank" href=https://www.instagram.com/steminist.ua">
   <img align="center" alt="Anastasiia STEMINIST @Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a target="blank" href="https://t.me/steminists_bot">
