@@ -58,6 +58,14 @@ I'm Anastasiia. A Full Stack Web Developer from Ukraine. I'm a mentor and volunt
   <tbody>
     <tr>
       <td>
+        <b>HTML&CSS CHRISTMAS CHALLENGE</b><br>
+        <i>#25daysofcode Christmas task every day. Layout of pages, animations, SVG, masks etc.</i>
+      </td>
+      <td align="center">GitHub</td>
+      <td align="center"><a href="https://github.com/steminist-ua/html-csss-christmas-challenge" target="blank">Read more</a></td>
+    </tr>
+    <tr>
+      <td>
         <b>Interviews (stories) of Seminists</b><br>
         <i>Be inspired by the incredible experience of Seminists from around the world!</i>
       </td>
