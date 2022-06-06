@@ -1,5 +1,5 @@
 <hr>
-<h1 align="center">Hello, &#10094;steminists <img src="https://steminist.com.ua/wp-content/uploads/2021/06/earth.gif" width="24px">/&#10095;! <img src="https://steminist.com.ua/wp-content/uploads/2021/06/hi.gif" width="30px">
+<h1 align="center">Hello, &#10094;steminists <img src="https://steminist.com.ua/wp-content/uploads/2021/06/earth.gif" width="24">/&#10095;! <img src="https://steminist.com.ua/wp-content/uploads/2021/06/hi.gif" width="30">
 <br>
 <a target="_blank" href="https://discord.gg/92FzG6K">
   <img align="center" alt="Anastasiia STEMINIST @Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
@@ -120,7 +120,7 @@ src="https://img.shields.io/github/followers/steminist-ua?logo=github&style=for-
     <tr>
       <td>
         <b>STEMINIST Inspiration ✨ (Bot)</b><br>
-        <i>Find tips, inspiration, interviews, attributes and helpful information here. Supports 3 languages - 🇺🇦 🇷🇺 🇺🇸</i>
+        <i>Find tips, inspiration, interviews, attributes and helpful information here. Supports 2 languages - 🇺🇦 🇺🇸</i>
       </td>
       <td align="center">Telegram</td>
       <td align="center"><a href="" target="blank">Try it</a></td>
