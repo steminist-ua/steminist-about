@@ -7,9 +7,9 @@
 <a target="blank" href="https://www.instagram.com/steminist.ua">
   <img align="center" alt="Anastasiia STEMINIST @Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a target="blank" href="https://t.me/steminists_bot">
+<!-- <a target="blank" href="https://t.me/steminists_bot">
   <img align="center" alt="Anastasiia STEMINIST @Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
+</a> -->
 <a target="blank" href="https://www.linkedin.com/in/anastasiia-iskandarova-mala/">
   <img align="center" alt="Anastasiia STEMINIST @LinkedIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -24,21 +24,21 @@
 
 <p align="center">
   <samp>
-I'm Anastasiia. A Full Stack Web Developer from Ukraine. I'm a mentor and volunteer. I work with developers from enterprises, startups, open source communities & universities to build their apps & solutions. I create content in Ukrainian <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/lg/57/flag-for-ukraine_1f1fa-1f1e6.png" srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/lg/57/flag-for-ukraine_1f1fa-1f1e6.png 2x" alt="Flag: Ukraine" width="20" height="20" style="margin-bottom:-5px">
-<br><br>Я Анастасія. Full Stack веб-розробниця з України. Я менторка і волонтерка. Працюю з розробниками з підприємств, стартапів, спільнот з відкритим кодом та університетів, для допомоги у створенні власних програм та рішень. Створюю контент українською <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/lg/57/flag-for-ukraine_1f1fa-1f1e6.png" srcset="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/lg/57/flag-for-ukraine_1f1fa-1f1e6.png 2x" alt="Flag: Ukraine" width="20" height="20" style="margin-bottom:-5px">
-     <br><br>Contact me on <a href="https://www.instagram.com/steminist.ua/" target="blank">Instagram</a>, <a href="https://t.me/steministUA" target="blank">Telegram</a>, or <a href="mailto:hello@steminist.com.ua" target="blank">Send an Email</a>
+I'm Anastasiia, a Software Engineer from Ukraine. I'm a Co-Founder&CTO at IT Services Company Devorld, a Founder and Head of the Non-governmental organization "STEMINIST", a Global Ambassador of "WomenTech Network", Tech Content Creator, STEM Influencer. I work with developers from enterprises, startups, open source communities & universities to build their apps & solutions. I create content in Ukrainian <img src="https://em-content.zobj.net/thumbs/120/google/350/flag-ukraine_1f1fa-1f1e6.png" alt="Flag: Ukraine" width="20" height="20" style="margin-bottom:-5px">
+<br><br>Я Анастасія, інженерка програмного забезпечення з України. Я співзасновниця та технічна директорка IT Services компанії Devorld, засновниця і голова громадської організації «STEMINIST», глобальна амбасадорка «WomenTech Network», авторка технічного контенту, STEM-інфлюенсерка. Працюю з розробниками з підприємств, стартапів, спільнот з відкритим кодом та університетів, для допомоги у створенні власних програм та рішень. Створюю контент українською <img src="https://em-content.zobj.net/thumbs/120/google/350/flag-ukraine_1f1fa-1f1e6.png" alt="Flag: Ukraine" width="20" height="20" style="margin-bottom:-5px">
+     <br><br>Contact me on <a href="https://www.instagram.com/steminist.ua/" target="blank">Instagram</a>, <a href="https://t.me/steminist_ua" target="blank">Telegram</a>, or <a href="mailto:hello@steminist.com.ua" target="blank">Send an Email</a>
   </samp>
 </p>
 
 ## 🤵 About Me:
-- 🌍  I'm based in Ukraine
-- 🏦 I'm currently Womenpreneur (Co-Founder & CTO), Software Engineer, Tech Content Creator, STEM Influencer, PhD <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-- 👩‍💻 I use daily `VSCode`, `MongoDB`, `Heroku`, `Azure`
-- 🌱 I’m currently learning Web3, Metaverse
-- 💬 Talk to me about Metaverse, STEM, Software Engineering, Time Management, Education
+- 🌍 I'm based in Ukraine
+- 🏦 I'm currently Womenpreneur (Co-Founder & CTO), Software Engineer, Tech Content Creator, STEM Influencer, PhD, Senior Lecturer at Dniprovsk State Technical University <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+- 👩‍💻 I use daily `VSCode`, `MongoDB`, `Azure` etc.
+- 🌱 I’m currently learning Web3, Metaverse, AI
+- 💬 Talk to me about WebDev, Metaverse, STEM, Software Engineering, Project and Time Management, Education, Feminism
 - 🤝 Pronouns: She/Her/Hers
 - 📝 I regulary write articles on [steminist.com.ua](https://steminist.com.ua/)
-- ✉️  You can contact me at [hello@steminist.com.ua](mailto:hello@steminist.com.ua)
+- ✉️ You can contact me at [hello@steminist.com.ua](mailto:hello@steminist.com.ua)
 
 <a href="https://www.twitter.com/steminist_ua" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/steminist_ua?logo=twitter&style=for-the-badge&color=facc15&labelColor=581c87"
@@ -49,7 +49,7 @@ src="https://img.shields.io/github/followers/steminist-ua?logo=github&style=for-
 <hr>
 <br>
 
-## 🎉 List of STEMINIST projects
+<!-- ## 🎉 List of STEMINIST projects
 <br>
 
 <table>
@@ -129,7 +129,7 @@ src="https://img.shields.io/github/followers/steminist-ua?logo=github&style=for-
 </table>
 <br>
 <hr>
-<br>
+<br> -->
 
 ## 🛠 &nbsp;Tech Stack
 <br>
